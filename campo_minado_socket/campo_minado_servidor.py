@@ -62,7 +62,7 @@ def novoJogo(cm,resposta):
     cm.novoJogo(linhaColuna,linhaColuna)
     cm.salvarJogo()
     print("\n\n")
-    print(cm.localizacaoBombas)
+    #print(cm.localizacaoBombas)
     return str(cm.jogadas)
 
 def carregarJogo(cm,resposta):

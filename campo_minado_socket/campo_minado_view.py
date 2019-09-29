@@ -1,4 +1,4 @@
-from campo_minado_negocio import CampoMinado
+from pygame import mixer
 import json
 import sys
 import os
@@ -40,6 +40,9 @@ def pegaValores():
 
 def fimDeJogo():
     os.system("cls")
+    mixer.init()
+    mixer.music.load('bomb.mp3')
+    mixer.music.play()
     print("#############################################")
     print("#                                           #")
     print("#             BOOOOOOOM EXPLODIU!           #")
