@@ -4,13 +4,13 @@
 
 # 1) INSTALL PIP3
 
-    # WINDOWS
+    Windows
 
  - Faça o download do arquivo https://drive.google.com/open?id=1Jhe2SHQmLOyEU7ESxef0Ff41pZmgShbh
  - Abra o prompt na pasta onde o arquivo foi baixado
  - Rode o comando:  python get-pip.py
 
-    # LINUX
+    LINUX
 
  - rode o comando no terminal linux: sudo apt-get install python3-pip
 
