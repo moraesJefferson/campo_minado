@@ -1,0 +1,6 @@
+# CAMPO MINADO
+
+# SISTEMAS DISTRIBUÍDOS 2019.2 
+
+# pip install zmq
+ 
